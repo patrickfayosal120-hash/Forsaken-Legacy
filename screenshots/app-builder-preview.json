@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Forsaken",
+      "hasCanvas": true,
+      "bodyTextLen": 299,
+      "bodyTextHash": "d251b8dada071b1c20e5dd3494c27263f36b4bba41fffb2a14369789a83db66f",
+      "bodyTextPrefix": "ASYMMETRICAL FORSAKEN Fix the generators. Or be the thing in the",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Forsaken",
+      "hasCanvas": true,
+      "bodyTextLen": 299,
+      "bodyTextHash": "d251b8dada071b1c20e5dd3494c27263f36b4bba41fffb2a14369789a83db66f",
+      "bodyTextPrefix": "ASYMMETRICAL FORSAKEN Fix the generators. Or be the thing in the",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
